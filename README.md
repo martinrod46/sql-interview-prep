@@ -4,8 +4,6 @@ A collection of SQL exercises designed to prepare for **Data Tester**, **Data An
 
 ---
 
-<br>
-
 ## 📖 Project Overview
 
 The exercises simulate common SQL scenarios encountered in production environments, including:
@@ -24,8 +22,6 @@ The dataset follows a dimensional model consisting of:
 
 ---
 
-<br>
-
 ## 🛠️ Skills Practiced
 
 - Multi-table JOINs
@@ -41,8 +37,6 @@ The dataset follows a dimensional model consisting of:
 
 ---
 
-<br>
-
 ## 💻 Environment
 
 - DuckDB
@@ -51,9 +45,7 @@ The dataset follows a dimensional model consisting of:
 
 ---
 
-<br>
 
-
-🎯 Purpose
+## 🎯 Purpose
 
 This repository documents my hands-on preparation for SQL technical interviews by solving realistic insurance data scenarios that mirror the types of SQL challenges commonly encountered in Data Tester interviews.
