@@ -22,6 +22,24 @@ The dataset follows a dimensional model consisting of:
 
 ---
 
+## 📁 Project Structure
+
+```text
+sql-interview-prep/
+│
+├── .gitignore
+├── README.md
+├── requirements.txt
+├── sql_interview_prep.ipynb
+│
+└── data/
+    ├── dim_customers.csv
+    ├── dim_adjusters.csv
+    ├── dim_policies.csv
+    └── fact_claims.csv
+```
+---
+
 ## 🛠️ Skills Practiced
 
 - Multi-table JOINs
