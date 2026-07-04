@@ -22,24 +22,6 @@ The dataset follows a dimensional model consisting of:
 
 ---
 
-## 📁 Project Structure
-
-```text
-sql-interview-prep/
-│
-├── .gitignore
-├── README.md
-├── requirements.txt
-├── sql_interview_prep.ipynb
-│
-└── data/
-    ├── dim_customers.csv
-    ├── dim_adjusters.csv
-    ├── dim_policies.csv
-    └── fact_claims.csv
-```
----
-
 ## 🛠️ Skills Practiced
 
 - Multi-table JOINs
@@ -60,6 +42,44 @@ sql-interview-prep/
 - DuckDB
 - SQL
 - Git & GitHub
+
+---
+
+## 📁 Project Structure
+
+```text
+sql-interview-prep/
+│
+├── .gitignore
+├── README.md
+├── requirements.txt
+├── sql_interview_prep.ipynb
+│
+└── data/
+    ├── dim_customers.csv
+    ├── dim_adjusters.csv
+    ├── dim_policies.csv
+    └── fact_claims.csv
+```
+
+---
+
+## 🚀 Getting Started
+
+1. Clone the repository.
+
+```bash
+git clone https://github.com/yourusername/sql-interview-prep.git
+cd sql-interview-prep
+```
+
+2. Install the dependencies.
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Open `sql_interview_prep.ipynb` and run the notebook.
 
 ---
 
