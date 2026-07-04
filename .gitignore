@@ -1,0 +1,13 @@
+# DuckDB database files
+*.duckdb
+*.wal
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# DBT 
+/logs
